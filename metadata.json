@@ -1,0 +1,6 @@
+{
+  "name": "EduSecureShare",
+  "description": "Secure file exchange platform and educational hub featuring AI visual helper, comments, rating system, notifications, personal dashboard, forum, and course work reports. Authored by Dziubenko Vladyslav, group IAFR 2503R.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
